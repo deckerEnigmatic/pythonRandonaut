@@ -1,2 +1,2 @@
 # pythonRandonaut
-Python script for running a Randonaut server
+Python script for running a custom Randonaut server
